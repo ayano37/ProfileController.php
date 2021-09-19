@@ -25,7 +25,7 @@
                     <div class="form-group row">
                         <label class="col-md-2" for ="gender">性別</label>
                         <div class="col-md-10">
-                            <select name ="sebetsu" id ="gender">
+                            <select name ="gender" class="form-control" value="{{ old('name') }}">
                                 <option value =""></option>
                                 <option value ="男性">男性</option>
                                 <option value ="女性">女性</option>
