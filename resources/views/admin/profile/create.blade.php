@@ -29,7 +29,7 @@
                                 <option value =""></option>
                                 <option value ="男性">男性</option>
                                 <option value ="女性">女性</option>
-                                <option value ="その他">その他</option></option>
+                                <option value ="その他">その他</option>
                             </select>
                         </div>
                     </div>
