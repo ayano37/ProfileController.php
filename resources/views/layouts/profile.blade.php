@@ -45,7 +45,7 @@
                         </ul>
                         <!-- Right Side Of Navbar -->
                         <ul class ="navbar-nav ml-auto">
-                        <input type="button" onclick="history.back()" value="My news">
+                        <input type="button" onclick="location.href='/'" value="My news">
                         <!-- Authentication Links -->
                         {{-- ログインしていなかったらログイン画面へのリンクを表示 --}}
                         @guest
